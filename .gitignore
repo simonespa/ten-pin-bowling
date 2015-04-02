@@ -1,5 +1,2 @@
-bin
-.classpath
-.git
-.project
-.settings
+.idea/
+*.iml

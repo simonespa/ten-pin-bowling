@@ -45,7 +45,7 @@ public class BowlingGame {
 	 *           no args are required.
 	 * @throws ScoreBoardException
 	 */
-	public static void main(String[] args) throws ScoreBoardException {
+	public static void maiSn(String[] args) throws ScoreBoardException {
 		// init players
 		initPlayers();
 		// start game
